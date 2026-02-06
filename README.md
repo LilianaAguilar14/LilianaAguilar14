@@ -1,7 +1,7 @@
 Hi!!
 
 # 💫 About Me:
-Hi!<br>My name is Liliana Aguilar, but you can call me Lily.<br> Currently, I'm in my third year of university, studying software <br>development engineering. I'm 21 years old. I'm a person who<br> enjoys collaborating and working in teams.
+Hi!<br>My name is Liliana Aguilar, but you can call me Lily.<br> Currently, I'm in my third year of university, studying software <br>development engineering. I'm 23 years old. I'm a person who<br> enjoys collaborating and working in teams.
 
 
 ## 🌐 Socials:
